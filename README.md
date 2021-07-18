@@ -13,3 +13,5 @@ NEST Tutorial: https://www.youtube.com/watch?v=8d75-sTi4UI&list=PLIGDNOJWiL1_AhU
 # Swiggy clone code using nest.js
 
 https://www.swiggy.com/
+
+![swiggy](https://user-images.githubusercontent.com/75001605/126057683-296f3136-d0f9-4d44-a12f-399e9046d104.jpg)
